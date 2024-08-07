@@ -1,5 +1,4 @@
 # Gen-AI-PDF-chatbot
-# Gen AI PDF Chatbot
 
 This project is a Streamlit application that allows users to upload PDF files and ask questions based on the content of these PDFs. The application uses Google Generative AI models to process the text and provide answers to user queries. The solution employs FAISS for efficient similarity search within the text chunks extracted from the PDF documents.
 
