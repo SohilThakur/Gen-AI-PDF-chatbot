@@ -25,8 +25,8 @@ This project is a Streamlit application that allows users to upload PDF files an
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/gen-ai-pdf-chatbot.git
-cd gen-ai-pdf-chatbot
+git clone https://github.com/SohilThakur/Gen-AI-PDF-chatbot
+cd Gen-AI-PDF-chatbot
 ```
 
 2. Create a virtual environment and activate it:
