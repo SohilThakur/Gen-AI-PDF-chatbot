@@ -32,7 +32,7 @@ cd Gen-AI-PDF-chatbot
 2. Create a virtual environment and activate it:
 
 ```sh
-python -m venv env
+python -m venv venv
 source venv/bin/activate # On Windows, use `venv\Scripts\activate`
 ```
 
